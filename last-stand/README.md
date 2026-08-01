@@ -1,3 +1,4 @@
+[🎮 Click Here to Play Last Stand!!](https://cpurey.github.io/Basic-Scratch-Games/last-stand/)
 # Last Stand!!
 * Survive for 3 minutes.
 * Touch = Die.
