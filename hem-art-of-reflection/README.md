@@ -1,10 +1,8 @@
-
-
-[INSTRUCTIONS:]
-Click The Green Flag To Start.
-
-Hit the spacebar at the right time to get points.
-If you score more than 100 points at the end of the timer. YOU WIN.
+[🎮 Click Here to H.E.M. Art Of Reflection](https://cpurey.github.io/Basic-Scratch-Games/hem-art-of-reflection/)
+# H.E.M. Art Of Reflection
+* Hit the spacebar at the right time to get points.
+* Every second you lose 1 point and for each missed hit, it deducts you additional points.
+* If you score more than 100 points at the end of the timer. YOU WIN.
 
 [CREDITS:]
 [Background Artwork]
@@ -19,3 +17,8 @@ If you score more than 100 points at the end of the timer. YOU WIN.
 "Dark Academia Harp", "Celestial Harp for Meditation", "Angelic Deep Sleep Harp", and "Wind in the Grass (Harp and Wind)" by Konstantinpazuzustudio
 
 All music licensed royalty-free via Pixabay
+
+
+
+
+
