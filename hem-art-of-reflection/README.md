@@ -1,5 +1,11 @@
 [🎮 Click Here to H.E.M. Art Of Reflection](https://cpurey.github.io/Basic-Scratch-Games/hem-art-of-reflection/)
+
+Original game on Scratch:
+https://scratch.mit.edu/projects/1367685982/
+
 # H.E.M. Art Of Reflection
+Note: Click the green flag to play again.
+
 * Hit the spacebar at the right time to get points.
 * Every second you lose 1 point and for each missed hit, it deducts you additional points.
 * If you score more than 100 points at the end of the timer. YOU WIN.
