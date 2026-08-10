@@ -1,4 +1,4 @@
-[🎮 Click Here to H.E.M. Art Of Reflection](https://cpurey.github.io/Basic-Scratch-Games/hem-art-of-reflection/)
+[🎮 Click Here to H.E.M. Art Of Reflection](https://cpurey.github.io/Basic-Scratch-Games/hem-art-of-reflectin/)
 # H.E.M. Art Of Reflection
 * Hit the spacebar at the right time to get points.
 * Every second you lose 1 point and for each missed hit, it deducts you additional points.
