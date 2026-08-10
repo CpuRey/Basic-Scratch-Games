@@ -1,7 +1,7 @@
 [🎮 Click Here to Play Last Stand!!](https://cpurey.github.io/Basic-Scratch-Games/last-stand/)
 
 Original game on Scratch:
-https://scratch.mit.edu/projects/1364808233/
+https://scratch.mit.edu/projects/1367768028/
 
 # Last Stand!!
 * Survive for 3 minutes.
