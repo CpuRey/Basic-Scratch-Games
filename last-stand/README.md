@@ -1,4 +1,8 @@
 [🎮 Click Here to Play Last Stand!!](https://cpurey.github.io/Basic-Scratch-Games/last-stand/)
+
+Original game on Scratch:
+https://scratch.mit.edu/projects/1367685982/
+
 # Last Stand!!
 * Survive for 3 minutes.
 * Touch = Die.
