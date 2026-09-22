@@ -11,6 +11,8 @@ Play the games live in your browser:
 
 OBJECTIVE: Match your tempo and beat. Reach a total goal of 100+ once the timer end.
 
+GENRE: Rhythm game
+
 
 ## Last Stand!!
 * [Play Last Stand!!](https://cpurey.github.io/Basic-Scratch-Games/last-stand/)
@@ -19,4 +21,6 @@ A story about a knight’s sacrifice.
 A journey to hold the Demon King's forces at bay—buying enough time for the hero’s party to end its reign.
 
 OBJECTIVE: Survive for 3 minutes.
+
+GENRE: Survival Game
 
