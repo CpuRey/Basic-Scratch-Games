@@ -4,6 +4,17 @@
 
 Play the games live in your browser:
 
+## Legacy Of 3 Seals
+* [Play Legacy Of 3 Seals](https://cpurey.github.io/Basic-Scratch-Games/legacy-of-3seals/)
+  - Synopsis: 
+Imprisoned in the cage called mind you shall ever be trapped.
+Will you lose yourself or be free from the shackles of regret?
+
+OBJECTIVE: Match all the poems before the timer ends.
+
+GENRE: Puzzle Game
+
+
 ## H.E.M. Art Of Reflection
 * [Play H.E.M. Art Of Reflection](https://cpurey.github.io/Basic-Scratch-Games/hem-art-of-reflection/)
   - Synopsis: 
@@ -23,4 +34,5 @@ A journey to hold the Demon King's forces at bay—buying enough time for the he
 OBJECTIVE: Survive for 3 minutes.
 
 GENRE: Survival Game
+
 
