@@ -1,4 +1,5 @@
 # Basic Scratch Games
+[View my Scratch Account](https://scratch.mit.edu/users/CpuRey/)
 
 > **Note:** These games are currently playable on desktop and PC browsers only.
 
